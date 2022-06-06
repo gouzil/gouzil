@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouzil&theme=dracula&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=gouzil&theme=vue"/>
   </a>
 </p>
 
