@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### gouzi ✈️ ![](https://views.whatilearened.today/views/github/gouzil/gouzil.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=gouzil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzil&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouzil&theme=dracula&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
+
+*🌱 我目前正在使用'GoLang''Python'<del>'java'</del>'docker'<del>'k8s/rancher'</del>
+
+*✈️ 对远程工作机会开放 🍻
