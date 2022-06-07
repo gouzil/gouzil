@@ -3,9 +3,9 @@ name: Update gist with Steam Playtime
 on:
   push:
     branches: 
-      - master
+      - main
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "* 3 * * *"
     
 
 jobs:
