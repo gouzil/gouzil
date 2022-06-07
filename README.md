@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 ### gouzi ✈️ ![](https://views.whatilearened.today/views/github/gouzil/gouzil.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=gouzil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouzil&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=gouzil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzil&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="#">
