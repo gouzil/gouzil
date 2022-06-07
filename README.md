@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 ### gouzi ✈️ ![](https://views.whatilearened.today/views/github/gouzil/gouzil.svg)
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=gouzil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzil&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css"/>
-  </a>
-</p>
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=gouzil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzil&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css" width="40%" />
+</div>
 
 <p align="center">
   <a href="#">
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/grafana-000000?style=flat-square&logo=grafana)](https://grafana.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/Mysql-00758f?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 
 #### Learning...
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
