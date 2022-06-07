@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-istio-466bb0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyMCAzMjAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjZmZmIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSI4MCAyNTAgMjQwIDI1MCAxNDAgMjgwIDgwIDI1MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSI4MCAyNDAgMTQwIDIzMCAxNDAgMTIwIDgwIDI0MCIvPjxwb2x5Z29uIGlkPSJoZWFkc2FpbCIgcG9pbnRzPSIxNTAgMjMwIDI0MCAyNDAgMTUwIDQwIDE1MCAyMzAiLz48L2c+PC9zdmc+&logoColor=ffffff)](https://istio.io/)
 
-![](https://raw.githubusercontent.com/gouzil/gouzil/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/gouzil/gouzil/output/github-contribution-grid-snake.svg)
