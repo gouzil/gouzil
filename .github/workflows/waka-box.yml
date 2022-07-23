@@ -31,7 +31,7 @@ jobs:
       
     - name: Update-gist
       run: |-
-          git clone https://github.com/YouEclipse/waka-box-go.git 
+          git clone https://github.com/gouzil/waka-box-go.git
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
 
