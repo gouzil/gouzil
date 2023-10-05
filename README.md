@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### gouzi ✈️ ![](https://views.whatilearened.today/views/github/gouzil/gouzil.svg)
+<!-- ### gouzi ✈️  -->
+
+![](https://views.whatilearened.today/views/github/gouzil/gouzil.svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello!+I'm+Gouzi)](https://git.io/typing-svg)
 
 <div >
-  <img src="https://github-readme-stats.vercel.app/api?username=gouzil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzil&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css" width="40%" />
+  <img src="https://github-readme-stats-inky-two-14.vercel.app/api?username=gouzil&show_icons=true&theme=dracula&include_all_commits=true" height="200"/>
+  <!-- <img src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=gouzil&theme=dracula&show_icons=true" height="200" /> -->
 </div>
 
-<p align="center">
-  <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=gouzil&theme=vue"/>
-  </a>
-</p>
 
 #### Platform&Tools
 
